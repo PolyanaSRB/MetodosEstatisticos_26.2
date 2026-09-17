@@ -5,3 +5,4 @@ openpyxl==3.1.5
 vegafusion==2.0.3
 vl-convert-python==1.9.0.post1
 pyarrow==25.0.1
+matplotlib==3.11.2
